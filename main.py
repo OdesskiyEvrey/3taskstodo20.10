@@ -1,15 +1,28 @@
-# This is a sample Python script.
+    # 1 Завдання
+# number = int(input("Write number to check is it odd or even: "))
+# if  number%2 == 0:
+#     print("true")
+# else:
+#     print("false")
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+    # 2 Завдання
 
+# a = input("Write some letters to count vocals: ")
+#
+# vocals_are = ["a", "e", "i","o","u"]
+# vocals = 0
+#
+# for i in a:
+#     if i in vocals_are:
+#         vocals += 1
+# print("The count of vocals are: " , vocals)
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+    # 3 Завдання
 
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('')
-
+# n = int(input("Write number to check factorial: "))
+#
+# factor = 1
+# while n > 1:
+#     factor *= n
+#     n -= 1
+# print(factor)
