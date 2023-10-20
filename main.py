@@ -19,10 +19,10 @@
 
     # 3 Завдання
 
-# n = int(input("Write number to check factorial: "))
-#
-# factor = 1
-# while n > 1:
-#     factor *= n
-#     n -= 1
-# print(factor)
+n = int(input("Write number to check factorial: "))
+
+factor = 1
+while n > 1:
+    factor *= n
+    n -= 1
+print(factor)
